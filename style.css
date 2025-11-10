@@ -1,0 +1,37 @@
+body {
+    background-color: #008080;
+    font-family: "Comic Sans MS", cursive;
+    color: #00FF00;
+    margin: 20px;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAGElEQVQYV2NkYGD4z4AEYBgqgGMIABIFAA24AONrAAAAAElFTkSuQmCC');
+}
+
+.question {
+    background: #000080;
+    border: 3px solid #FFFF00;
+    padding: 15px;
+    margin: 10px 0;
+    color: white;
+}
+
+button {
+    background: #FF00FF;
+    font-family: "Comic Sans MS", cursive;
+    padding: 5px 10px;
+    margin: 5px;
+    border: 2px outset #C0C0C0;
+}
+
+button:hover {
+    background: #FFFF00;
+    color: #000000;
+}
+
+.result {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px #000000;
+}
